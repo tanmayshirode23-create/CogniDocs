@@ -1,0 +1,12 @@
+streamlit==1.51.0
+
+langchain==0.3.27
+langchain-core==0.3.75
+langchain-community==0.3.29
+langchain-text-splitters==0.3.11
+langchain-google-genai==2.1.12
+
+google-genai==1.32.0
+
+faiss-cpu==1.11.0
+pypdf==5.9.0
